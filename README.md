@@ -11,8 +11,8 @@ This is a simple Java Swing application designed to help you quickly clean up an
 ## Usage
 1.  **Paste Text**: Paste your raw text into the large text area.
 2.  **Apply Transformations**:
-    * Click "**Rimuovi timestamps**" (Remove timestamps) to clean up timestamped lines.
-    * Click "**Rimuovi tutti gli \"a capo\"**" (Remove all line breaks) to convert multiline text into a single line.
-    * Click "**Correggi maiuscole**" (Correct capitalization) to fix sentence-starting capitalization.
+    * Click "**Remove timestamps**" to clean up timestamped lines.
+    * Click "**Remove all line breaks**" to convert multiline text into a single line.
+    * Click "**Correct capitalization**" to fix sentence-starting capitalization.
 3.  **Undo**: If you make a mistake, click "**Undo**" to revert to the previous state.
-4.  **Copy**: Click "**Copia testo negli appunti**" (Copy text to clipboard) to copy the processed text.
+4.  **Copy**: Click "**Copy text to clipboard**" to copy the processed text.
