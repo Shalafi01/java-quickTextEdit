@@ -5,7 +5,7 @@ This is a simple Java Swing application designed to help you quickly clean up an
 - [Features](#features)
 - [Java Concepts and Features](#Java-Concepts-and-Features)
 - [Usage](#Usage)
-- [Screenshot](#Screenshot)
+- [Screenshot](#screenshot)
 
 ## Features
 * **Remove Timestamps**: Quickly remove lines that look like timestamps (e.g., "01:23:45 Some Text") from your text.
