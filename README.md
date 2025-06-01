@@ -29,4 +29,4 @@ This is a simple Java Swing application designed to help you quickly clean up an
 5.  **Copy**: Click "**Copy text to clipboard**" to copy the processed text.
 
 ## Screenshot
-<img src="img/screenshot.png" alt="Contacts App Screenshot" style="width: 600px;"/>
+<img src="img/screenshot.png" alt="Contacts App Screenshot" style="width: 400px;"/>
